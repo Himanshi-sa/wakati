@@ -1,2 +1,8 @@
-# wakati
-read time analysis
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
